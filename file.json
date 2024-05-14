@@ -1,0 +1,75 @@
+[
+    {
+	"level": "error", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log1.log"
+    }
+},
+{
+	"level": "error1", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-10-15T08:00:00Z",    
+    "metadata": {
+        "source": "log2.log"
+    }
+},
+{
+	"level": "error2", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-11-15T08:00:00Z",    
+    "metadata": {
+        "source": "log3.log"
+    }
+},
+{
+	"level": "error3", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log4.log"
+    }
+},
+{
+	"level": "error", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log5.log"
+    }
+},
+{
+	"level": "error", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log6.log"
+    }
+},
+{
+	"level": "error", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log7.log"
+    }
+},
+{
+	"level": "error", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log8.log"
+    }
+},
+{
+	"level": "error", 
+	"log_string": "Inside the Search API",
+	"timestamp": "2023-09-15T08:00:00Z",    
+    "metadata": {
+        "source": "log9.log"
+    }
+}
+
+]

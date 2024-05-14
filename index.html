@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Data Fetching</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="text-align: center;">Filter Data</h1>
+    
+    <form id="dataForm">
+    <input type='text' placeholder="level" id="level" name="level">
+    <input type='text' placeholder="log_string" id="log_string" name="log_string">
+    <input type='text' placeholder="timestamp" id="timestamp" name="timestamp">
+    <input type='text' placeholder="metadata.source" id="metadata.source" name="metadata.source">
+    <button type="button" 
+                onclick="convertToJson()" class="b">
+          Submit
+          </button>
+    </form>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>level</th>
+                <th>Log_string</th>
+                <th>timestamp</th>
+                <th>metadata.source</th>
+                
+            </tr>
+        </thead>
+        <tbody id="data-output">
+           
+        </tbody>
+    </table>
+    
+    
+    <script src="script.js"></script>
+</body>
+</html>
